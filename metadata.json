@@ -1,0 +1,6 @@
+{
+  "name": "QOVYRA - Quality Engineering & Industrial Intelligence",
+  "description": "Redefining Quality Through Intelligence. An advanced ecosystem connecting engineering students, quality engineers, and manufacturing organizations with AI Quality Mentor, 3D Virtual Factory, Digital Twin Simulation, and Engineering Toolkits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
